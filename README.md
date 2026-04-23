@@ -47,7 +47,7 @@ POST /shorten/
 ### Redirect
 GET /<short_code>/
 
-project URL
+project URL: [project URL](https://github.com/ra3145/url-shortener-api)
 http://127.0.0.1:8000
 GitHub Repository: https://github.com/your-username/url_shortener_api
 
